@@ -31,4 +31,5 @@ p {
   padding: 20px;
   font-family: Helvetica;
   color: black;
+  position: relative;
 }
