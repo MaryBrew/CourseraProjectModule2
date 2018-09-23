@@ -1,5 +1,8 @@
 * {
   box-sizing: border-box;
+  padding: 0px;
+  margin: 20px;
+
 }
 h1 {
   text-align: center:
