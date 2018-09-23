@@ -13,6 +13,15 @@ div {margin: 0x;
 background-color: gray;
 }
 
+blockquote {
+  float: right;
+  width: 20px;
+  font-size: 75%;
+  margin: 0px 0px 10px 10px;
+  padding: 10px;
+  background-color: red;
+}
+
 p {
   border: 1px solid black;
   background-color: gray;
