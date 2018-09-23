@@ -10,7 +10,7 @@ h1 {
 }
 
 div {margin: 0x;
-background-color: gray;
+background-color: bisque;
 }
 
 blockquote {
@@ -19,7 +19,7 @@ blockquote {
   font-size: 125%;
   margin: 0px 0px 10px 10px;
   padding: 10px;
-  background-color: red;
+  background-color: lightcoral;
 }
 
 p {
