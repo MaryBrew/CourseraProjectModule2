@@ -4,11 +4,10 @@
 h1 {
   text-align: center:
   margin-bottom: 15px;
-  background-color: green;
 }
 
 div {margin: 20px;
-background-color: red;
+background-color: gray;
 }
 
 p {
