@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  padding: 0px;
+  padding: 20px;
   margin: 20px;
 
 }
@@ -11,6 +11,7 @@ h1 {
 
 div {margin: auto;
 width: 200px;
+margin-right: 20px;
 background-color: bisque;
 }
 
