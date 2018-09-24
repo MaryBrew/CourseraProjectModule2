@@ -9,7 +9,7 @@ h1 {
   margin-bottom: 15px;
 }
 
-div {margin: 0x;
+div {margin: auto;
 background-color: bisque;
 }
 
