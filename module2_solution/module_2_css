@@ -1,13 +1,13 @@
 * {
   box-sizing: border-box;
-  padding: 20px;
+    margin-right: 15px;
   }
 h1 {
   text-align: center;
   float: center;
   }
 
-div {margin: 10px 0px 0px 0px;
+div {margin: 0px;
 width: 200px;
 background-color: bisque;
 }
