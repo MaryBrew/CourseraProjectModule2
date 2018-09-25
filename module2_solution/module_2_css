@@ -8,7 +8,7 @@ h1 {float: center;
 
 div {margin: 0px;
   background-color: bisque;
-  width: 90%;
+  width: auto;
 }
 
 blockquote {
