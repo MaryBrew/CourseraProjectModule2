@@ -1,0 +1,32 @@
+
+
+h1 {text-align: center;
+  float: center;
+  margin-bottom: 15px;
+}
+
+div {margin: 0px;
+  background-color: bisque;
+  width: 450px;
+  margin-right: 20px;
+  }
+blockquote {
+  float: right;
+  width: 100px;
+  font-size: 125%;
+  margin: 0px 0px 10px 10px;
+  padding: 10px;
+  background-color: lightcoral;
+}
+
+p {
+  border: 1px solid black;
+  width: 100%;
+  height: 150px;
+  margin: 0px;
+  padding-left: 15px;
+  padding-top: 15px;
+  font-family: Arial, Verdana, sans-serif;
+  color: black;
+
+}
