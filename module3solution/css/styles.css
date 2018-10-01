@@ -2,13 +2,20 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: green;
+	background-color: beige;
 	font-family: 'Oxygen', sans-serif;
 	}
 	
 	/** HEADER **/
 #header-nav {
-	background-color: yellow;
+	background-color: brown;
 	border-radius: 0;
 	border: 0;
+}
+
+#logo-img {
+	background: url('../images/restaurant-name-large.png') no repeat;
+	width: 300px;
+	height: 150px;
+    margin: 10px 15px 10px 0;
 }
