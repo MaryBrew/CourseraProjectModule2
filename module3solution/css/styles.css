@@ -28,7 +28,7 @@ body {
 	display:none;
 	position:  absolute;
 	background-color: #f1f1f1;
-	min-width: 160px:
+	min-width: 18px:
 	box-shadow; 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 1;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #ddd; font-size: 10px;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
@@ -61,7 +61,7 @@ body {
      }
 
  #OurMenu-header {
- 	font-size 40px;
+ 	font-size 75px;
  }
 
  #nav-list {
